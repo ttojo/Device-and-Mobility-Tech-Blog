@@ -1,1 +1,1 @@
-C:\Users\totojo\documents\visual studio 2015\Projects\MSJapan.DeviceMobility.TechBlog\MSJapan.DeviceMobility.TechBlog\AppPackages\MSJapan.DeviceMobility.TechBlog_1.1.7.0\MSJapan.DeviceMobility.TechBlog_1.1.7.0_AnyCPU.appxbundle
+C:\Users\totojo\documents\visual studio 2015\Projects\MSJapan.DeviceMobility.TechBlog\MSJapan.DeviceMobility.TechBlog\AppPackages\MSJapan.DeviceMobility.TechBlog_1.1.8.0\MSJapan.DeviceMobility.TechBlog_1.1.8.0_AnyCPU.appxbundle
