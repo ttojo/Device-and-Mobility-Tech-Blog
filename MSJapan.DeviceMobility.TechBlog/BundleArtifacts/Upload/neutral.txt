@@ -1,0 +1,1 @@
+MainPackage=C:\Users\totojo\documents\visual studio 2015\Projects\MSJapan.DeviceMobility.TechBlog\MSJapan.DeviceMobility.TechBlog\bin\Release\Upload\MSJapan.DeviceMobility.TechBlog_1.0.0.0_AnyCPU.appx
